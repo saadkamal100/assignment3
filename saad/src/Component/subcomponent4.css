@@ -1,0 +1,27 @@
+.form-input {
+	margin-bottom: 5px;
+	padding: 6px;
+	text-align: center;
+}
+.form-input input[type="text"]{
+width: 250px;
+padding: 12px 20px;
+border:1px solid #ccc;
+}
+.form-input textarea{
+	width: 250px;
+	padding: 12px 20px;
+	height: 80px;
+	resize: none;
+	border: 1px solid #ccc;
+}
+
+	.btm {
+	display: block;
+	width: 180px;
+	height: 35px;
+	border: 2px solid #fb2274;
+	line-height: 35px;
+	margin: 25px auto;
+	text-align: center;
+	}

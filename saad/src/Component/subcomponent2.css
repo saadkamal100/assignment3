@@ -1,0 +1,36 @@
+
+.banner-image {
+
+	background: url("C:\Users\Spring2020\Desktop\Saadkamal02\saad\public\images\Pic03.jpeg") no-repeat top center;
+	background-size: cover;
+	display: flex;
+	width: 100%;
+	height: 600px;
+	justify-content: center;
+	align-items: center;	
+}
+
+.banner-content{
+	text-align: center;
+	color: skyblue;
+}
+.banner-content h1{
+	text-transform: uppercase;
+	line-height: 38px;
+	margin-bottom: 15px;
+
+}
+.about{
+	padding: 5% 10%;
+	text-align: center;
+
+}
+.btn {
+	display: block;
+	width: 180px;
+	height: 35px;
+	border: 2px solid #fb2274;
+	line-height: 35px;
+	margin: 25px auto;
+	text-align: center;
+	}
